@@ -26,6 +26,6 @@ I've created a simple script to test this and visualize the correct result.
 
 Here's the demo video, so you don't have to run the code yourself:
 
-![](media/video.mp4)
+![](media/video.gif)
 
 Right answer was 4.
